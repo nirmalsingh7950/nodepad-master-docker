@@ -11,7 +11,7 @@
     "node": ">= 0.4.0"
   },
   "dependencies": {
-    "connect": "1.8.1",
+    "connect": "3.7.0",
     "connect-mongodb": "1.1.1",
     "connect-timeout": "0.0.1",
     "express": "2.5.1",
